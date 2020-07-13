@@ -1,5 +1,16 @@
 ### I’m currently working on AlpheratzTeam ⚡
 
+# 😄 What I am:
+- Programmer 🤔
+# 🔭 What I'm not:
+- Facebook Hacker 💬
+- Printer Wisperer 📫
+- Laptop Repairer 🔭
+- Spreadsheet Wizard ⚡
+- App Troubleshooter 📫
+- E-mail Assistant 👯
+- Bluetooth Ninja ⚡
+
 <!--
 **negative-zer0/negative-zer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
