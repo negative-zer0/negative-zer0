@@ -4,9 +4,9 @@
 - Programmer 🤔
 # 🔭 What I'm not:
 - Facebook Hacker 💬
-- Printer Wisperer 📫
-- Laptop Repairer 🔭
-- Spreadsheet Wizard ⚡
+- Printer Wisperer 💨
+- Laptop Repairer 💻🔧
+- Spreadsheet Wizard 🧙‍
 - App Troubleshooter 📫
 - E-mail Assistant 👯
 - Bluetooth Ninja ⚡
