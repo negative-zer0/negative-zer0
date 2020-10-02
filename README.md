@@ -1,4 +1,9 @@
 ### I’m currently working on AlpheratzTeam ⚡
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=negative-zer0" alt="negative-zer0" /> </p>
+
+### Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=negative-zer0&count_private=true&include_all_commits&theme=gruvbox" />
 
 # 😄 What I am:
 - Programmer 🤔
