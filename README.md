@@ -4,7 +4,7 @@
 ### Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=negative-zer0&count_private=true&include_all_commits&theme=gruvbox" />
-<img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=negative-zer0&langs_count=8&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negative-zer0&langs_count=8&theme=gruvbox" />
 
 # 😄 What I am:
 - Programmer 🤔
