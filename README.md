@@ -1,7 +1,7 @@
 ### What do language I use ⚡
-[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]&nbsp;
-[<img src="https://img.shields.io/badge/golang-%23ED8B00.svg?&style=for-the-badge&logo=go&logoColor=white&color=blue"/>][golang]&nbsp;
-[<img src="https://img.shields.io/badge/kotlin-%23ED8B00.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]&nbsp;
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/golang-%23ED8B00.svg?&style=for-the-badge&logo=go&logoColor=white&color=blue"/>
+<img src="https://img.shields.io/badge/kotlin-%23ED8B00.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negative-zer0" alt="negative-zer0" /> </p>
 
